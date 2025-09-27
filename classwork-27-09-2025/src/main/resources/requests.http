@@ -1,0 +1,9 @@
+GET localhost:8080/params?p1=123666
+
+###
+GET localhost:8080/
+
+###
+GET localhost:8080/headers
+X-User-Name: Fedor
+X-User-Email: example@mail.com
