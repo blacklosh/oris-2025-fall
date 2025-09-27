@@ -1,8 +1,0 @@
-
-~
-java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(í™óì8¼§ïĞ˜3
-‰
-java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(ê‹•Ş8îùõÑ˜3
-G	java:S106"+Replace this use of System.out by a logger.(€¢¥8ù„òĞ˜3
-p
-java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(•Šÿö8”‡Ñ˜3
